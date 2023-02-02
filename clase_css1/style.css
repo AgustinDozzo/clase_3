@@ -1,0 +1,77 @@
+#selectorId {
+    background-color:red;
+}
+.selectorclase{
+    background-color: blue;
+}
+
+h4{
+    background-color: brown;
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+text-align: center;
+border-radius: 10px;
+}
+
+.cajamediana{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 1rem;
+    font-size: 10px;
+
+
+}
+
+.cajagrande{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 1rem;
+
+}
+
+.em {
+    font-size: 2em;
+}
+.rem{
+    font-size: 2rem;
+}
+.porcentaje {
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+}
+.vh{
+    height: 10vh;
+    background-color: blue;
+}
+.vw {
+    width: 10wv;
+    background-color: blue;
+}
+
+.bg-color{
+    background-color: crimson;
+}
+.bg-image{
+    background-image: url(./DSC_9677.jpg);
+}
+
+.bg-repeat{
+background-image: url('./DSC_9677.jpg');
+background-repeat: repeat;
+       
+}
+
+.bg-attach{
+    background-image: url('./DSC_9677.jpg');
+      background-size: auto;
+            background-attachment: fixed;
+    
+}
